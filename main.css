@@ -1,0 +1,44 @@
+body { 
+    background-color: orange;
+}
+
+
+
+.big-tag {
+    color:black;
+    text-align: center;
+    padding-top:50px;
+    padding-bottom: 50;
+    
+ 
+   
+
+    
+}
+.job1{
+    color: blue;
+    text-align: center;
+    padding-bottom: 50px;
+    
+      
+}
+
+.job2{
+    color:red;
+    text-align: center;
+    padding-bottom: 50px;
+    margin:auto
+}
+
+.job3 {
+    color:gold;
+    text-align: center;
+    margin:auto;
+}
+
+
+
+.title1 {
+    color:black;
+    text-align: center;
+}
